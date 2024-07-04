@@ -1,6 +1,4 @@
 # Tic-Tac-Toe
-<br>
-<br>
 <b>Hosted Link</b>
 <hr>
 <ul>
